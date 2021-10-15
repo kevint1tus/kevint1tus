@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kpt05
 - 👀 I’m interested in web dev (html & CSS)
-- 🌱 I’m currently learning CompSci at High School.
+- 🌱 I’m currently learning CompSci at A Level.
 - 📫 How to reach me : 
   Instagram - @kptmusic05
 
