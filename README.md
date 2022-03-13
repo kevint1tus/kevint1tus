@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kpt05
-- 👀 I’m interested in web dev (html & CSS)
+- 👋 Hey, I’m Kevin
+- 👀 Interested in Web dev (html & CSS)
 - 🌱 I’m currently learning CompSci at A Level.
 - 📫 How to reach me : 
   Instagram - @kptmusic05
