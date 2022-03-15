@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Kevin
-- 👀 Interested in Web dev (html & CSS)
-- 🌱 I’m currently learning CompSci at A Level.
+- 🌱 I’m currently studying Computer Science at A Level.
+- 👀 Interested in Web development (html & CSS)
 - 📫 How to reach me : 
   Instagram - @kptmusic05
 
