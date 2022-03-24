@@ -3,7 +3,7 @@
 - 👀 Interested in Web development
 - 📫 How to reach me : 
   Instagram - @kptmusic05
-- Website - (https://titusk.me)
+- Website - [Titusk.me](https://titusk.me)
   
 Tryin to learn Visual Basic aswell cause my school is horrible :)
 
