@@ -1,4 +1,4 @@
-<img src="https://github.com/Kpt05/Profile/blob/main/header.svg" alt=":wave:" />
+<img src="https://github.com/Kpt05/Kpt05/blob/main/header.svg" alt=":wave:" />
 
 - 🌱 17, currently studying Computer Science at A Level.
 - 🖥️ Interested in Web development
