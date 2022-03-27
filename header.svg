@@ -34,7 +34,7 @@
       
 				}
 				.normal {
-					color: #FFFFFF;
+					color: #0d1117;
 					-webkit-text-stroke: 1px white;
 				}
 				.conrad {
@@ -49,9 +49,8 @@
 				}
 			</style>
 			<h1>
-				<span class="conrad">Hi there, I'm Kevin</span>
+				<span class="normal">Hi there, I'm </span><span class="conrad">Conrad</span>
 			</h1>
 		</div>
 	</foreignObject>
 </svg>
- 
