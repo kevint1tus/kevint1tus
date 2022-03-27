@@ -34,7 +34,7 @@
       
 				}
 				.normal {
-					color: #ffffff;
+					color: #c9d1d9;
 					-webkit-text-stroke: 1px white;
 				}
 				.conrad {
