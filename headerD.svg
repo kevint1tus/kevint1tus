@@ -34,8 +34,8 @@
       
 				}
 				.normal {
-					color:  #000000;
-					-webkit-text-stroke: 1px black;
+					color:  #FFFFFF;
+					-webkit-text-stroke: 1px White;
 				}
 				.kevin {
 					background: -webkit-linear-gradient(right,#c700ff,#46a0ff);
