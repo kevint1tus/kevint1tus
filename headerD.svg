@@ -34,7 +34,7 @@
 				}
 
 				.wave {
-                                  width: 57px;
+                                  width: 37px;
 				  -webkit-animation: waveAnimation 1.5s ease infinite;
 				  animation: waveAnimation 1.5s ease infinite;
 				}
