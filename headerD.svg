@@ -14,6 +14,24 @@
 				  }
 				}
 				
+				@keyframes waveAnimation {
+				  0% {
+				    transform: rotateZ(0deg) translate(-15%, -30%);
+				  }
+				  15% {
+				      transform: rotateZ(20deg) translate(-15%, -30%);
+				  }
+				  30% {
+				      transform: rotateZ(-10deg) translate(-15%, -30%);
+				  }
+				  50% {
+				      transform: rotateZ(0deg) translate(-15%, -30%);
+				  }
+				  100% {
+				     transform: rotateZ(0deg) translate(-15%, -30%);
+				  }
+				}
+				
 				h1 {
 				  font-family: 
 					'Segoe UI', 
@@ -37,6 +55,13 @@
 					color: #FFFFFF;
 					-webkit-text-stroke: 1px white;
 				}
+				
+				.wave {
+                                  width: 37px;
+				  -webkit-animation: waveAnimation 1.5s ease infinite;
+				  animation: waveAnimation 1.5s ease infinite;
+				}
+				
 				.kevin {
 					background: -webkit-linear-gradient(right,#c700ff,#46a0ff);
 				  background: linear-gradient(270deg,#c700ff 0,#46a0ff);
@@ -49,8 +74,10 @@
 				}
 			</style>
 			<h1>
-				<span class="normal">Hi there, I'm </span><span class="kevin">Kevin</span>
+				<span class="normal">Hi there, I'm </span><span class="kevin">Kevin</span><span class="wave">👋</span>
 			</h1>
+			
+	
 		</div>
 	</foreignObject>
 </svg>
