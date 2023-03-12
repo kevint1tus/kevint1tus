@@ -4,7 +4,7 @@
 - 🌱 18, currently studying Computer Science at A Level.
 - 🖥️ Interested in Web development
 - 📫 How to reach me : 
-- ***Instagram - [@kptmusic05](https://www.instagram.com/kptmusic05/)***
+- ***Instagram - [@kevinTitus](https://www.instagram.com/_kevintitus_/)***
 - ***Website - [Titusk.me](https://titusk.me)***
 
 Tryin to learn Visual Basic aswell cause of my school :)
