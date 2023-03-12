@@ -1,7 +1,7 @@
 <img src="https://github.com/Kpt05/Kpt05/blob/main/headerD.svg#gh-dark-mode-only"/>
 <img src="https://github.com/Kpt05/Kpt05/blob/main/headerL.svg#gh-light-mode-only"/>
 
-- 🌱 17, currently studying Computer Science at A Level.
+- 🌱 18, currently studying Computer Science at A Level.
 - 🖥️ Interested in Web development
 - 📫 How to reach me : 
 - ***Instagram - [@kptmusic05](https://www.instagram.com/kptmusic05/)***
