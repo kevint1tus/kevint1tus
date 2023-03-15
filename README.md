@@ -5,6 +5,7 @@
 - 🖥️ Interests: Full Stack Web Development and Music Production
 - 📫 How to reach me : 
 - ***Instagram - [@kevinTitus](https://www.instagram.com/_kevintitus_/)***
+- ***linkedin - [@kevin~Titus](https://www.linkedin.com/in/kevin~titus/)***
 - ***Website - [Titusk.me](https://titusk.me)***
 
 Tryin to learn Visual Basic aswell cause of my school :)
