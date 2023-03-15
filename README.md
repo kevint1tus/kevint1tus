@@ -2,7 +2,7 @@
 <img src="https://github.com/Kpt05/Kpt05/blob/main/headerL.svg#gh-light-mode-only"/>
 
 - 🌱 18, currently studying Computer Science at A Level.
-- 🖥️ Interested in Web development
+- 🖥️ Interests: Full Stack Web Development and Music Production
 - 📫 How to reach me : 
 - ***Instagram - [@kevinTitus](https://www.instagram.com/_kevintitus_/)***
 - ***Website - [Titusk.me](https://titusk.me)***
