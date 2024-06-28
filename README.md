@@ -4,8 +4,8 @@
 - 🌱 19, currently studying Computer Science and Software Engineering at the University of Birmingham.
 - 🖥️ Interests: Full Stack Web Development and Music Production
 - 📫 How to reach me : 
-- ***Instagram - [@kevinTitus](https://www.instagram.com/kevint1tus/)***
-- ***Linkedin - [@kevin~Titus](https://www.linkedin.com/in/kevint1tus)***
+- ***Instagram - [@kevint1tus](https://www.instagram.com/kevint1tus/)***
+- ***Linkedin - [@kevint1tus](https://www.linkedin.com/in/kevint1tus)***
 - ***Website - [Titusk.me](https://titusk.me)***
 
 <!---
